@@ -1,0 +1,15 @@
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\bin\Debug\ArrayList_Peeradon.exe.config
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\bin\Debug\ArrayList_Peeradon.exe
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\bin\Debug\ArrayList_Peeradon.pdb
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\obj\Debug\ArrayList_Peeradon.csprojAssemblyReference.cache
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\obj\Debug\MainWindow.g.cs
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\obj\Debug\App.g.cs
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\obj\Debug\ArrayList_Peeradon_MarkupCompile.cache
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\obj\Debug\ArrayList_Peeradon_MarkupCompile.lref
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\obj\Debug\MainWindow.baml
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\obj\Debug\ArrayList_Peeradon.g.resources
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\obj\Debug\ArrayList_Peeradon.Properties.Resources.resources
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\obj\Debug\ArrayList_Peeradon.csproj.GenerateResource.cache
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\obj\Debug\ArrayList_Peeradon.csproj.CoreCompileInputs.cache
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\obj\Debug\ArrayList_Peeradon.exe
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\ArrayList_Peeradon\ArrayList_Peeradon\obj\Debug\ArrayList_Peeradon.pdb

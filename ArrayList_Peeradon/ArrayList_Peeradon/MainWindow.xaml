@@ -1,0 +1,22 @@
+﻿<Window x:Class="ArrayList_Peeradon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ArrayList_Peeradon"
+        mc:Ignorable="d"
+        Title="G-Man Sorted List" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="32*"/>
+            <ColumnDefinition Width="365*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="textinput" HorizontalAlignment="Left" Height="34" Margin="115,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="404" TextChanged="TextBox_TextChanged" Grid.Column="2"/>
+        <TextBox HorizontalAlignment="Left" Height="37" Margin="230,47,0,0" TextWrapping="Wrap" Text="โปรดกรอกข้อมูลลงช่อง" VerticalAlignment="Top" Width="170" FontSize="18" Grid.Column="2"/>
+        <Button x:Name="addButton" Content="ADD" HorizontalAlignment="Left" Height="79" Margin="35,225,0,0" VerticalAlignment="Top" Width="181" Click="add_func" Grid.Column="2"/>
+        <Button x:Name="removeButton" Content="REMOVE" HorizontalAlignment="Left" Height="79" Margin="230,225,0,0" VerticalAlignment="Top" Width="180" Click="remove_func" Grid.Column="2"/>
+        <Button x:Name="showAllButton" Content="Show_All" HorizontalAlignment="Left" Height="79" Margin="415,225,0,0" VerticalAlignment="Top" Width="180" Click="show" Grid.Column="2"/>
+
+    </Grid>
+</Window>
